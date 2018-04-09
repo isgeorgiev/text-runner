@@ -1,4 +1,4 @@
-# text-runner
+# Text-Runner
 Bachelor Project - Text-Runner Reimplementation
 
 The main goal of the project is to reimplement the Open Information Extraction(OIE) system called TextRunner. 
